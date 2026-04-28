@@ -1,0 +1,20 @@
+[2026-04-28 14:20:20] [System] [SERVER ONLINE] 
+[2026-04-28 14:21:29] [System] [SERVER ONLINE] 
+[2026-04-28 14:22:37] [System] [Status] User 'Rido' connected
+[2026-04-28 14:23:21] [System] [Status] User 'Rido' disconnected
+[2026-04-28 14:23:26] [System] [Status] User 'Zeta' connected
+[2026-04-28 14:23:38] [User] [[Zeta]: hello Rido] 
+[2026-04-28 14:23:52] [System] [Status] User 'Zeta' disconnected
+[2026-04-28 14:24:22] [System] [Status] User 'Zeta' connected
+[2026-04-28 14:24:29] [System] [Status] User 'Rido' connected
+[2026-04-28 14:24:46] [User] [[Rido]: hello Zeta] 
+[2026-04-28 14:25:00] [User] [[Zeta]: hello Rido] 
+[2026-04-28 14:26:02] [User] [[Rido]: hello] 
+[2026-04-28 14:26:08] [User] [[Zeta]: waw] 
+[2026-04-28 14:27:16] [System] [Status] User 'The Knights' connected
+[2026-04-28 14:28:00] [System] [Status] User 'The Knights' disconnected
+[2026-04-28 14:28:13] [System] [Status] User 'The Knights' connected
+[2026-04-28 14:29:15] [User] [[Rido]: hello The Knights] 
+[2026-04-28 14:29:27] [User] [[Zeta]: hello The Knights] 
+[2026-04-28 14:31:40] [Admin] [RPC_GET_USERS] 
+[2026-04-28 14:32:02] [Admin] [RPC_SHUTDOWN] EMERGENCY SHUTDOWN INITIATED
